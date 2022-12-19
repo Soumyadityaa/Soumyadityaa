@@ -5,7 +5,7 @@
  <p>🔭 I’m student of computer science and engineering in B.tech ( 1st year ) .<br><br>
 </p><p align="centre">
   <font color="0000FF"> 
-   <b>Programming language skill in </b>
+  ## Programming language skill in 
    <ol>
      <li>C ( basics and Data Structure ) </li><li>C++( Object Oriented  programming )</li></ol>
    </font>
