@@ -3,12 +3,11 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Soumyadityaa&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyadityaa" />
 <br>
  <p>🔭 I’m student of computer science and engineering in B.tech ( 1st year ) .<br><br>
-</p><p align="centre">
-  <font color="0000FF"> 
+</p>
   ## Programming language skill in 
    <ol>
      <li>C ( basics and Data Structure ) </li><li>C++( Object Oriented  programming )</li></ol>
-   </font>
+  
 
   
 <!---
