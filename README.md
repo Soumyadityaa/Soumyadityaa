@@ -7,6 +7,7 @@
 </p>
 <hr>
  <h3><b> Programming language skill in </b></h3>
+
  
    <ol>
      <li>C ( basics and Data Structure )
@@ -16,6 +17,7 @@
       <br> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
      </li>
    </ol>
+
    
   <h3><b>Development skill in<b></h3>
      <ul>
