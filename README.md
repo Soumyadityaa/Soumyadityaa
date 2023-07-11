@@ -8,7 +8,6 @@
 <hr>
  <h3><b> Programming language skill in </b></h3>
 
- 
    <ol>
      <li>C ( basics and Data Structure )
      <br> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
