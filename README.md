@@ -1,3 +1,4 @@
+![An image of @soumyadityaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadityaa)
 <h1>👋 Hi, I’m Soumyaditya Bauri</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Soumyadityaa&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyadityaa" />
