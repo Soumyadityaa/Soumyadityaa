@@ -36,6 +36,11 @@
      <li>C++( Object Oriented  programming )
       <br> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
      </li>
+<li>
+ Python (Basics) <br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</li>
+    
    </ol>
 
    
