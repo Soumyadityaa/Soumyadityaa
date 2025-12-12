@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Soumyadityaa&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyadityaa" />
 <br>
  <p>
-  <b>🔭 I’m student of computer science and engineering in B.tech ( 2nd year ).</b>
+  <b>🔭 I’m student of computer science and engineering in B.tech ( Final year ).</b>
 </p>
 <br>
 
