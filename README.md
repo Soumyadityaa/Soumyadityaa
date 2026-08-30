@@ -62,6 +62,8 @@
 - 🚜 **[AgriTech Platform](https://github.com/Soumyadityaa/agritech2)**  
   *Smart India Hackathon 2023* — Data-driven platform enabling farmers to adopt sustainable agricultural practices and optimize crop yields.
 
+- 🚜 **[NexaJobs - Advanced Frontend Job Portal](https://github.com/Soumyadityaa/nexajobs)**  
+  NexaJobs is a premium, highly interactive frontend job board template built entirely with HTML5, CSS3, and Vanilla JavaScript.
 ---
 
 ## 📊 GitHub Analytics
