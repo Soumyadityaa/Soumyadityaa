@@ -13,7 +13,7 @@ I'm a B.Tech Computer Science graduate bridging the gap between predictive data 
 - **Community:** Ex-Cloud Lead @ Google Developer Group (GDG) on Campus
 ---
 
-### Total Tech Stack
+### Tech Stack
 
 <details open>
 <summary><b>Languages & Core CS</b></summary>
@@ -85,7 +85,7 @@ I'm a B.Tech Computer Science graduate bridging the gap between predictive data 
 
 ### GitHub Stats
 
-<div align="center">
+<div align="left">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadityaa&theme=tokyonight" alt="Soumyaditya's GitHub Streak" />
 </div>
