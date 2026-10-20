@@ -88,6 +88,8 @@ I'm a B.Tech Computer Science graduate bridging the gap between predictive data 
 <div align="left">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadityaa&theme=tokyonight" alt="Soumyaditya's GitHub Streak" />
+  <br>
+  <a href="https://github.com/Soumyadityaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadityaa&layout=compact&theme=material-palenight" /></a>
 </div>
 
 <br>
